@@ -1,1 +1,1 @@
-auth_token = "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"
+auth_token = "your own auth token please"
